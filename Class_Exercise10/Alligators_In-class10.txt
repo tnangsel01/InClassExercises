@@ -1,0 +1,19 @@
+Vianney Pham
+List all movies that has "Henry A. Jone" in it.
+List all actors that play in the movie "cyborg 2".
+
+Hamza
+List all the movies made in 1933.
+List all the female actresses.
+
+Raju
+List of all movie with the same Director.
+List of all the movies with the same actors.
+
+Tenzin
+list all the movies name where "Brad Pitt" in it.
+List all the male directors that made a movie between 1990 and 2000.
+
+Sapana
+List all the name of female singers.
+List the director name of "Frozen" movie.
